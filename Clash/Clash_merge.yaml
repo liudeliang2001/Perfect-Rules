@@ -85,6 +85,13 @@ rule-providers:
     interval: 86400
     url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/ads.yaml"
 
+    ai:
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules/refs/heads/main/Clash/rules/twitter.yaml"  
+  
   ai:
     type: http
     behavior: classical
