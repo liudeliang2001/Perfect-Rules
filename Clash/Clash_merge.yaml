@@ -83,63 +83,63 @@ rule-providers:
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/ads.yaml"
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/ads.yaml"
 
     ai:
     type: http
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules/refs/heads/main/Clash/rules/twitter.yaml"  
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/twitter.yaml"  
   
   ai:
     type: http
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/ai.yaml"
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/ai.yaml"
 
   youtube:
     type: http
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/youtube.yaml"
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/youtube.yaml"
 
   crypto:
     type: http
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/crypto.yaml"
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/crypto.yaml"
 
   disney:
     type: http
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/disney.yaml"
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/disney.yaml"
 
   apple:
     type: http
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/apple.yaml"
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/apple.yaml"
 
   google:
     type: http
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/google.yaml"
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/google.yaml"
 
   software:
     type: http
     behavior: classical
     format: yaml
     interval: 86400
-    url: "https://cdn.jsdelivr.net/gh/n0de-sudo/Perfect-Rules@main/Clash/rules/software.yaml"
+    url: "https://cdn.jsdelivr.net/gh/liudeliang2001/Perfect-Rules@main/Clash/rules/software.yaml"
 
 
 # ============================================================
